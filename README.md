@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![CI](https://github.com/vsakkas/chatgpt-client/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/vsakkas/chatgpt-client/actions/workflows/main.yml)
+[![](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
 Python client for the unofficial [ChatGPT](https://openai.com/blog/chatgpt/) API by [OpenAI](https://openai.com/).
 
