@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "chatgpt-client"
-version = "0.1.0"
+version = "0.2.0"
 description = "Python client for the unofficial ChatGPT API."
 authors = ["vsakkas <vasileios.sakkas96@gmail.com>"]
 license = "MIT"
